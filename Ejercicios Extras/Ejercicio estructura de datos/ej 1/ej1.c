@@ -72,5 +72,3 @@ void calculateAverage(int studentCount, float finalNote ){
     float average = finalNote/studentCount;
     printf("Promedio: %.2f", average);
 }
-//profe el ejercicio lo termine pero me corrigio alguna cosas el chat porque no puede instalar el ejecutable para probar si funciona
-//cosas que me modifico el chat fueron s->name, &s->age, &s->note, &s y void addStudent(struct student *s)
